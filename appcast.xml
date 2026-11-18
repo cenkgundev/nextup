@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NextUp</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 18 Nov 2026 13:27:39 +0300</pubDate>
+            <sparkle:version>202611181327</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://cenkgundev.github.io/nextup/updates/NextUp-1.1.0.zip" length="3146443" type="application/octet-stream" sparkle:edSignature="5n0BIRkrF7h9ndWdSDyvZOH7U8BwIqpi3mswIz4LlXpS0MC83LWZm/Nf/LRFOONFrKW2twudBN86zKAtNNp+AA=="/>
+        </item>
+    </channel>
+</rss>
