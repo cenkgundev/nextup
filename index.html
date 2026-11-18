@@ -34,9 +34,24 @@ Kalan süreyi gösterir, toplantıdan önce hatırlatır ve Google Meet, Zoom, T
 Hiçbir sunucuya göndermez, kimseyle paylaşmaz. Ayrıntılar için <a href="privacy.html">gizlilik politikasına</a> bak.</p>
 
 <hr>
-<p class="muted" lang="en"><strong>English:</strong> NextUp is a small macOS menu bar app that shows your next Google Calendar
-meeting, reminds you before it starts and lets you join with one click. It has read-only access to your calendar and
-processes data only on your Mac. See the <a href="privacy.html#en">privacy policy</a>.</p>
+
+<section id="en" lang="en">
+<h2>NextUp for macOS (English)</h2>
+<p>NextUp is a macOS menu bar app that shows your next Google Calendar meeting at a glance. It displays a countdown in the
+menu bar, lists today's and tomorrow's meetings in a small panel, reminds you shortly before a meeting starts and opens
+the meeting link (Google Meet, Zoom, Microsoft Teams and others) with one click.</p>
+
+<h3>Why NextUp needs access to your Google Calendar</h3>
+<ul>
+  <li><strong>See your calendar list</strong> (<code>calendar.calendarlist.readonly</code>): to let you choose which of your
+  calendars appear in NextUp and to show each calendar's color next to its meetings.</li>
+  <li><strong>View events on your calendars</strong> (<code>calendar.events.readonly</code>): to read today's and tomorrow's
+  events (title, start and end time, your response status and the video conference link) so NextUp can show the next
+  meeting, schedule a local reminder and open the correct meeting link.</li>
+</ul>
+<p>Access is read-only. NextUp never creates, edits or deletes calendar data. All data is processed locally on your Mac and
+is never sent to any server other than Google's. Read the full <a href="privacy.html#en">privacy policy</a>.</p>
+</section>
 
 <nav><a href="privacy.html">Gizlilik politikası / Privacy policy</a></nav>
 </main>
