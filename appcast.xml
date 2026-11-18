@@ -3,6 +3,17 @@
     <channel>
         <title>NextUp</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Wed, 18 Nov 2026 13:53:22 +0300</pubDate>
+            <sparkle:version>202611181353</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://cenkgundev.github.io/nextup/updates/NextUp-1.1.1.zip" length="3146423" type="application/octet-stream" sparkle:edSignature="qZU9bKJGOCMBj96LYc9av8Ad2VGu578OED0ShssmhkiyYzFW5tIHOZtaRiy+9B1YDS66yM2EfuVeJvr8h+ltCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://cenkgundev.github.io/nextup/updates/NextUp202611181353-202611181327.delta" sparkle:deltaFrom="202611181327" length="10722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EsPpUyhDzMMxgUig6KSw1ha6GxsHIFJWxacLqOayO7UoTxWS4HQQ8wUbJ9uxYKqx2LeebM87XJ1CrZya8wTxDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Wed, 18 Nov 2026 13:27:39 +0300</pubDate>
             <sparkle:version>202611181327</sparkle:version>
